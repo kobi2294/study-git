@@ -1,4 +1,7 @@
+Here is another line in a new commit
+
 Kol miney dvarim
 
 
 We are adding a new line
+
