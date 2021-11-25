@@ -6,3 +6,9 @@ this is a new line, on a new commit
 ------------ 
 Some work done on our-first-branch
 -------------
+
+We have performed a succesful merge
+
+********************************
+this is work done on the master
+********************************
